@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Walks a sales call through Clarify -> Label -> Overview -> Sell the vacation -> Explain away concerns -> Reinforce, with the contrast built in the Overview.",
+  "keywords": [
+    "closer",
+    "kairos",
+    "small business",
+    "spine"
+  ],
+  "license": "MIT",
+  "name": "kairos-closer-spine",
+  "repository": "https://github.com/baselam88/kairos-closer-spine-plugin",
+  "version": "0.1.0"
+}
